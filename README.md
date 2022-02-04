@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @un-conditioned
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - You can shoot me at my email :  manas.nitraipur@gmail.com
 
 <!---
 un-conditioned/un-conditioned is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 I am currently learning about Dapps and how to make efficient and secure smart contracts. I am 2021 graduate in Civil Engineering from NIT Raipur, India.
 
+💞️ I’m looking to collaborate on defi/nft based blockchain projects.
+📫 How to reach me - You can shoot me at my email :  manas.nitraipur@gmail.com
+
 
 * My Instagram Page : @unconditioned.being
 
@@ -22,7 +20,7 @@ I am currently learning about Dapps and how to make efficient and secure smart c
 <a href="https://www.linkedin.com/in/manasnitraipur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themansigupta_" height="30" width="40" /></a>
 <a href="https://instagram.com/unconditioned.being" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themansigupta_" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🔗 <h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
