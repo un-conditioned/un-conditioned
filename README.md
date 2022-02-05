@@ -21,13 +21,13 @@ Graduate in Civil Engineering from NIT Raipur, India. (2021 Batch)
   
 ##  
 <h3 align="left">Skills and Tools:</h3>
-•	Programming Languages:  C++, Python, Java  
-•	Scripting Languages: Powershell/cmd ( Windows ), bash (Linux ), Javascript
-•	Database Management: SQL, Oracle, MongoDB, postgres  
-•	ETL Tools: Informatica IDQ, Stibo MDM, Semarchy xDM
-•	Web Development: HTML5, CSS3, JavaScript, MERN Stack  
-•	Blockchain Development: Solidity, Smart Contracts  
-•	Office Applications: MS Word, MS Excel (Advanced Level), MS PowerPoint  
+•	Programming Languages:  C++, Python, Java  <br />
+•	Scripting Languages: Powershell/cmd ( Windows ), bash (Linux ), Javascript<br />
+•	Database Management: SQL, Oracle, MongoDB, postgres  <br />
+•	ETL Tools: Informatica IDQ, Stibo MDM, Semarchy xDM<br />
+•	Web Development: HTML5, CSS3, JavaScript, MERN Stack  <br />
+•	Blockchain Development: Solidity, Smart Contracts  <br />
+•	Office Applications: MS Word, MS Excel (Advanced Level), MS PowerPoint  <br /><br />
 
- **Soft Skills: Communication, Creative, Quick Learner, Management Skills, Leadership**  
+ **Soft Skills: Communication, Creative, Quick Learner, Management Skills, Leadership**  <br />
 
