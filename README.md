@@ -8,9 +8,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Blockchain Developer | Data Analyst | Web Development | </h3>
 
 ##
-I am currently learning about Dapps and how to make efficient and secure smart contracts. I am 2021 graduate in Civil Engineering from NIT Raipur, India.
--💞️ I’m looking to collaborate on defi/nft based blockchain projects.
--📫 How to reach me - You can shoot me at my email :  manas.nitraipur@gmail.com
+I am currently learning about Dapps and how to make efficient and secure smart contracts.
+I am 2021 graduate in Civil Engineering from NIT Raipur, India.
+💞️ I’m looking to collaborate on defi/nft based blockchain projects.
+📫 How to reach me - You can shoot me at my email :  manas.nitraipur@gmail.com
 
 ## <h3 align="left">🤝🏻 Connect with Me</h3>
 <p align="left">
