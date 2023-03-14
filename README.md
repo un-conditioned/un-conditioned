@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ##
 <h1 align="center">Hi 👋, I'm Manas Gupta</h1>
-<h3 align="center">Blockchain Developer | Data Analyst | Web Developer  </h3>
+<h3 align="center">Data Analyst | Web Developer  </h3>
 
 ##
 Currently learning about Dapps and how to make efficient and secure smart contracts.  
