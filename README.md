@@ -27,5 +27,4 @@ You can click the Preview link to take a look at your changes.
 •	Office Applications: MS Excel (+VBA), MS PowerPoint <br />
 <br />
 
- **Soft Skills: Communication, Creative, Quick Learner, Management Skills, Leadership**  <br />
 
