@@ -5,12 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ##
 <h1 align="center">Hi 👋, I'm Manas Gupta</h1>
-<h3 align="center">Data Analyst | Web Developer  </h3>
+<h3 align="center">Data Analyst </h3>
 
-##
-Currently learning about Dapps and how to make efficient and secure smart contracts.  
-Graduate in Civil Engineering from NIT Raipur, India. (2021 Batch)    
-💞️ I’m looking to collaborate on **Defi/NFT based Blockchain Projects.**  
 📫 You can shoot me at :  manas.nitraipur@gmail.com  
 
 ## <h3 align="left">🤝🏻 Connect with Me</h3>
@@ -21,13 +17,15 @@ Graduate in Civil Engineering from NIT Raipur, India. (2021 Batch)
   
 ##  
 <h3 align="left">Skills and Tools:</h3>
-•	Programming Languages:  C++, Python, Java  <br />
-•	Scripting Languages: Powershell/cmd ( Windows ), bash (Linux ), Javascript<br />
-•	Database Management: SQL, Oracle, MongoDB, postgres  <br />
-•	ETL Tools: Informatica IDQ, Stibo MDM, Semarchy xDM<br />
-•	Web Development: HTML5, CSS3, JavaScript, MERN Stack  <br />
-•	Blockchain Development: Solidity, Smart Contracts  <br />
-•	Office Applications: MS Word, MS Excel (Advanced Level), MS PowerPoint  <br /><br />
+•	Programming Languages:  Python, C++ <br />
+•	Database Management: Postgres (SQL, PLSQL), Oracle, MongoDB <br />
+•	Big Data Tools: Hadoop, Hive, Airflow, Data Warehouse  <br />
+•	ETL Tools: Semarchy xDM, Informatica DQ, Stibo <br />
+•	Cloud Certification: AWS Certified Cloud Practitioner, Migration Ambassador <br />
+•	Web Development: HTML5, CSS3, JavaScript, MERN Stack <br />
+•	Blockchain Development: Solidity, Smart Contracts, Blockchain Fundamentals <br />
+•	Office Applications: MS Excel (+VBA), MS PowerPoint <br />
+<br />
 
  **Soft Skills: Communication, Creative, Quick Learner, Management Skills, Leadership**  <br />
 
